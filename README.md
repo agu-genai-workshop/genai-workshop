@@ -5,6 +5,12 @@
 〜人工知能との共同作業による教育・研究効率の向上〜
 
 
+## 必要なパッケージ
+
+- openai
+- Pillow
+
+
 ## Organization ID の確認と API Keyの確認方法
 
 [Organization IDの確認 \
